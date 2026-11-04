@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vitis Analyzer v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# 
+# Start of session at: Thu Oct 29 15:12:07 2026
+# Process ID: 176860
+# Current directory: /home/mse26/Work/TM_Rivier/PROJECT/vck5000_sum_example/sw
+# Command line: vitis_analyzer /home/mse26/Work/TM_Rivier/PROJECT/vck5000_sum_example/hw/reference_files_hw_emu/sum.hw_emu.xclbin.package_summary
+# Log file: /home/mse26/Work/TM_Rivier/PROJECT/vck5000_sum_example/sw/vitis_analyzer.log
+# Journal file: /home/mse26/Work/TM_Rivier/PROJECT/vck5000_sum_example/sw/vitis_analyzer.jou
+# Running On: hepia, OS: Linux, CPU Frequency: 4396.786 MHz, CPU Physical cores: 16, Host memory: 66423 MB
+#-----------------------------------------------------------
+start_gui
+create_project dummy
